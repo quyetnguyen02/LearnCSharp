@@ -1,0 +1,13 @@
+D:\FPTAPTECH\SEM2\C#\LearnCSharp\QuestionManage\bin\Debug\netcoreapp3.1\QuestionManage.exe
+D:\FPTAPTECH\SEM2\C#\LearnCSharp\QuestionManage\bin\Debug\netcoreapp3.1\QuestionManage.deps.json
+D:\FPTAPTECH\SEM2\C#\LearnCSharp\QuestionManage\bin\Debug\netcoreapp3.1\QuestionManage.runtimeconfig.json
+D:\FPTAPTECH\SEM2\C#\LearnCSharp\QuestionManage\bin\Debug\netcoreapp3.1\QuestionManage.runtimeconfig.dev.json
+D:\FPTAPTECH\SEM2\C#\LearnCSharp\QuestionManage\bin\Debug\netcoreapp3.1\QuestionManage.dll
+D:\FPTAPTECH\SEM2\C#\LearnCSharp\QuestionManage\bin\Debug\netcoreapp3.1\QuestionManage.pdb
+D:\FPTAPTECH\SEM2\C#\LearnCSharp\QuestionManage\obj\Debug\netcoreapp3.1\QuestionManage.csproj.AssemblyReference.cache
+D:\FPTAPTECH\SEM2\C#\LearnCSharp\QuestionManage\obj\Debug\netcoreapp3.1\QuestionManage.AssemblyInfoInputs.cache
+D:\FPTAPTECH\SEM2\C#\LearnCSharp\QuestionManage\obj\Debug\netcoreapp3.1\QuestionManage.AssemblyInfo.cs
+D:\FPTAPTECH\SEM2\C#\LearnCSharp\QuestionManage\obj\Debug\netcoreapp3.1\QuestionManage.csproj.CoreCompileInputs.cache
+D:\FPTAPTECH\SEM2\C#\LearnCSharp\QuestionManage\obj\Debug\netcoreapp3.1\QuestionManage.dll
+D:\FPTAPTECH\SEM2\C#\LearnCSharp\QuestionManage\obj\Debug\netcoreapp3.1\QuestionManage.pdb
+D:\FPTAPTECH\SEM2\C#\LearnCSharp\QuestionManage\obj\Debug\netcoreapp3.1\QuestionManage.genruntimeconfig.cache
